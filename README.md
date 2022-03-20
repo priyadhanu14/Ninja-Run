@@ -5,13 +5,13 @@ Escape the obstacles by jumping and sliding over and under obstacles, as you spr
 ## Project Screen Shot(s)
 
  
- ![HomePage](https://github.com/sinking8/Ninja_Run/blob/main/images/2.PNG)
+ ![HomePage](https://github.com/priyadhanu14/Ninja-Run/blob/main/images/2.PNG)
  </br> 
  
- ![HomePage](https://github.com/sinking8/Ninja_Run/blob/main/images/3.PNG)
+ ![HomePage](https://github.com/priyadhanu/Ninja-Run/blob/main/images/3.PNG)
  </br> 
 
-![HomePage](https://github.com/sinking8/Ninja_Run/blob/main/images/1.PNG)
+![HomePage](https://github.com/priyadhanu14/Ninja-Run/blob/main/images/1.PNG)
  </br> 
 
 ## Installation and Setup Instructions
@@ -20,7 +20,7 @@ Escape the obstacles by jumping and sliding over and under obstacles, as you spr
 
 1. Clone the repo
   ```
-  $ git clone https://github.com/sinking8/Ninja_Run.git
+  $ git clone https://github.com/priyadhanu14/Ninja-Run.git
   $ cd Ninja_Run
   ```
 
